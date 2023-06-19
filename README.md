@@ -1,9 +1,7 @@
 - 👋🏽 Hi, I am Morís Gomez.
-- 🎧 I am interested in creating civic-tech and audio tools.
-- 📚 I am currently learning C++ and JavaScript.
-- 🐻 I am an undergraduate at UCLA.
-- 🇸🇻 I was born in San Salvador, El Salvador.
-- 📫 Reach me at morisbruin9719@g.ucla.edu.
+- 🤖 I am interested in creating/building civic-tech, impactful work.
+- 📚 Programming: C++ and JavaScript
+- 🧑🏽‍⚕️ Mark-up: HTML,CSS
 
 <!---
 morisgomez/morisgomez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
